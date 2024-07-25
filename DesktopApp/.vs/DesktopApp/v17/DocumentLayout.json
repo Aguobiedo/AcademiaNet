@@ -3,17 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1881F7B8-602A-47AD-993E-54315FAEA500}|..\\DataAccess\\DataAccess.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96970D1D-434F-46B0-ACF7-13B53A8D39FB}|..\\Services\\Services.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441F7D50-A2C9-4BB3-8493-F0337615CCB8}|..\\Domain\\Domain.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\homeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:homeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,61 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "..\\DataAccess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "HomeUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\HomeUsuario.cs",
+              "RelativeDocumentMoniker": "HomeUsuario.cs",
+              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\HomeUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HomeUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:59:17.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T18:21:47.713Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\Services\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Services\\Class1.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\Services\\Class1.cs",
-              "RelativeToolTip": "..\\Services\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:58:50.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\Domain\\Class1.cs",
-              "RelativeToolTip": "..\\Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:45:45.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:44:47.427Z"
+              "WhenOpened": "2024-07-25T17:44:47.427Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:10:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesktopApp",
+              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\DesktopApp.csproj",
+              "RelativeDocumentMoniker": "DesktopApp.csproj",
+              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\DesktopApp.csproj",
+              "RelativeToolTip": "DesktopApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T18:07:54.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
