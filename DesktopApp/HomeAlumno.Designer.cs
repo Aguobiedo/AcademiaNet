@@ -101,7 +101,7 @@
             panelHeader.Dock = System.Windows.Forms.DockStyle.Top;
             panelHeader.Location = new System.Drawing.Point(0, 0);
             panelHeader.Name = "panelHeader";
-            panelHeader.Size = new System.Drawing.Size(1302, 47);
+            panelHeader.Size = new System.Drawing.Size(902, 47);
             panelHeader.TabIndex = 5;
             // 
             // lblUserName
@@ -132,9 +132,9 @@
             panelFooter.BackColor = System.Drawing.Color.FromArgb(221, 230, 237);
             panelFooter.Controls.Add(lblFooter);
             panelFooter.Dock = System.Windows.Forms.DockStyle.Bottom;
-            panelFooter.Location = new System.Drawing.Point(0, 470);
+            panelFooter.Location = new System.Drawing.Point(0, 404);
             panelFooter.Name = "panelFooter";
-            panelFooter.Size = new System.Drawing.Size(1302, 28);
+            panelFooter.Size = new System.Drawing.Size(902, 28);
             panelFooter.TabIndex = 6;
             // 
             // lblFooter
@@ -152,7 +152,7 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1302, 498);
+            ClientSize = new System.Drawing.Size(902, 432);
             Controls.Add(panelFooter);
             Controls.Add(panelHeader);
             Controls.Add(btnLogout);
