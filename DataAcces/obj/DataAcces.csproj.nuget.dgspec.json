@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DataAcces\\DataAcces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DataAcces\\DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DataAcces\\DataAcces.csproj",
         "projectName": "DataAcces",
-        "projectPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj",
-        "packagesPath": "C:\\Users\\Agustín obiedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\obj\\",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DataAcces\\DataAcces.csproj",
+        "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Agustín obiedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

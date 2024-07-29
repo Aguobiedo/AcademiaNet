@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Agustín obiedo\\.nuget\\packages\\": {}
+    "C:\\Users\\gabriel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\Agustín obiedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Agustín obiedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
