@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SorV1NOlpm4CJX7Sg08T4ieef/3+a9o8G3mc8xkyJTHAoKr0bQx2NBaTazYb5W2Wv+uWOh6DDVfVJz7GgTtbmQ==",
+  "dgSpecHash": "qbuBDf3KBRR3WiMXBpLVub6Gouq+lE2td9Hbebj0kUNW3xhPekZ31uUycApLak48dF9smTM2OZR3bPGW9B8TMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj",
+  "projectFilePath": "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\DataAcces\\DataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agustín obiedo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Agustín obiedo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

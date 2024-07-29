@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj": {
+    "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Agustín obiedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agustín obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\Proyecto\\AcademiaNet\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Agustín obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agustín obiedo\\AppData\\Roaming\\NuGet\\NuGet.Config",

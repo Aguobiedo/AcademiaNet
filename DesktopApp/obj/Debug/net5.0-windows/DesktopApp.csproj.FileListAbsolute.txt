@@ -36,3 +36,22 @@ C:\Users\Agustín obiedo\Desktop\FACULTAD\CARPETA 2\Electivas\.net 2024\Proyecto
 C:\Users\Agustín obiedo\Desktop\FACULTAD\CARPETA 2\Electivas\.net 2024\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.pdb
 C:\Users\Agustín obiedo\Desktop\FACULTAD\CARPETA 2\Electivas\.net 2024\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.genruntimeconfig.cache
 C:\Users\Agustín obiedo\Desktop\FACULTAD\CARPETA 2\Electivas\.net 2024\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\ref\DesktopApp.dll
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.exe
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.deps.json
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.runtimeconfig.json
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.runtimeconfig.dev.json
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.dll
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.pdb
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.Form1.resources
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.HomeAlumno.resources
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.AssemblyInfo.cs
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.sourcelink.json
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.dll
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\refint\DesktopApp.dll
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.pdb
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.genruntimeconfig.cache
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\ref\DesktopApp.dll
