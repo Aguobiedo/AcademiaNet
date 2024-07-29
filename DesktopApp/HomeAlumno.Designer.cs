@@ -164,6 +164,7 @@
             Name = "HomeAlumno";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Home";
+            Load += HomeAlumno_Load;
             panelHeader.ResumeLayout(false);
             panelHeader.PerformLayout();
             panelFooter.ResumeLayout(false);

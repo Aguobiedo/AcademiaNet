@@ -29,5 +29,10 @@ namespace DesktopApp
         {
             // Acción para el botón Cerrar Sesión
         }
+
+        private void HomeAlumno_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
