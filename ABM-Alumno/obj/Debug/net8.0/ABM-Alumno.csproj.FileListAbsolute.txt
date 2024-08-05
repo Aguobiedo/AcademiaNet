@@ -1,0 +1,5 @@
+C:\Users\gabriel\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\obj\Debug\net8.0\ABM-Alumno.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\obj\Debug\net8.0\ABM-Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\obj\Debug\net8.0\ABM-Alumno.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\obj\Debug\net8.0\ABM-Alumno.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\obj\Debug\net8.0\ABM-Alumno.csproj.CoreCompileInputs.cache

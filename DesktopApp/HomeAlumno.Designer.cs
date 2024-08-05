@@ -25,6 +25,8 @@
             btnPersonalOptions = new System.Windows.Forms.Button();
             panelFooter = new System.Windows.Forms.Panel();
             lblFooter = new System.Windows.Forms.Label();
+            flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            btn_inscripcion = new System.Windows.Forms.Button();
             panelHeader.SuspendLayout();
             panelFooter.SuspendLayout();
             SuspendLayout();
@@ -46,7 +48,7 @@
             btnProfile.BackColor = System.Drawing.Color.FromArgb(82, 109, 130);
             btnProfile.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             btnProfile.ForeColor = System.Drawing.Color.White;
-            btnProfile.Location = new System.Drawing.Point(559, 143);
+            btnProfile.Location = new System.Drawing.Point(514, 88);
             btnProfile.Name = "btnProfile";
             btnProfile.Size = new System.Drawing.Size(175, 38);
             btnProfile.TabIndex = 1;
@@ -59,7 +61,7 @@
             btnCourses.BackColor = System.Drawing.Color.FromArgb(82, 109, 130);
             btnCourses.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             btnCourses.ForeColor = System.Drawing.Color.White;
-            btnCourses.Location = new System.Drawing.Point(559, 199);
+            btnCourses.Location = new System.Drawing.Point(514, 144);
             btnCourses.Name = "btnCourses";
             btnCourses.Size = new System.Drawing.Size(175, 38);
             btnCourses.TabIndex = 2;
@@ -72,7 +74,7 @@
             btnGrades.BackColor = System.Drawing.Color.FromArgb(82, 109, 130);
             btnGrades.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             btnGrades.ForeColor = System.Drawing.Color.White;
-            btnGrades.Location = new System.Drawing.Point(559, 255);
+            btnGrades.Location = new System.Drawing.Point(514, 267);
             btnGrades.Name = "btnGrades";
             btnGrades.Size = new System.Drawing.Size(175, 38);
             btnGrades.TabIndex = 3;
@@ -85,7 +87,7 @@
             btnLogout.BackColor = System.Drawing.Color.FromArgb(82, 109, 130);
             btnLogout.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             btnLogout.ForeColor = System.Drawing.Color.White;
-            btnLogout.Location = new System.Drawing.Point(559, 311);
+            btnLogout.Location = new System.Drawing.Point(514, 323);
             btnLogout.Name = "btnLogout";
             btnLogout.Size = new System.Drawing.Size(175, 38);
             btnLogout.TabIndex = 4;
@@ -103,6 +105,7 @@
             panelHeader.Name = "panelHeader";
             panelHeader.Size = new System.Drawing.Size(902, 47);
             panelHeader.TabIndex = 5;
+            panelHeader.Paint += panelHeader_Paint;
             // 
             // lblUserName
             // 
@@ -148,11 +151,33 @@
             lblFooter.TabIndex = 0;
             lblFooter.Text = "© 2024 Mi Aplicación";
             // 
+            // flowLayoutPanel1
+            // 
+            flowLayoutPanel1.Location = new System.Drawing.Point(272, 142);
+            flowLayoutPanel1.Name = "flowLayoutPanel1";
+            flowLayoutPanel1.Size = new System.Drawing.Size(8, 8);
+            flowLayoutPanel1.TabIndex = 7;
+            // 
+            // btn_inscripcion
+            // 
+            btn_inscripcion.BackColor = System.Drawing.Color.FromArgb(82, 109, 130);
+            btn_inscripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            btn_inscripcion.ForeColor = System.Drawing.Color.White;
+            btn_inscripcion.Location = new System.Drawing.Point(514, 206);
+            btn_inscripcion.Name = "btn_inscripcion";
+            btn_inscripcion.Size = new System.Drawing.Size(175, 38);
+            btn_inscripcion.TabIndex = 8;
+            btn_inscripcion.Text = "Inscripción a cursos";
+            btn_inscripcion.UseVisualStyleBackColor = false;
+            btn_inscripcion.Click += button1_Click;
+            // 
             // HomeAlumno
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(902, 432);
+            Controls.Add(btn_inscripcion);
+            Controls.Add(flowLayoutPanel1);
             Controls.Add(panelFooter);
             Controls.Add(panelHeader);
             Controls.Add(btnLogout);
@@ -182,5 +207,7 @@
         private System.Windows.Forms.Label lblUserName;
         private System.Windows.Forms.Panel panelFooter;
         private System.Windows.Forms.Label lblFooter;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.Button btn_inscripcion;
     }
 }

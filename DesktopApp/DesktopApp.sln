@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "..\WebApp\WebApp.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAcces", "..\DataAcces\DataAcces.csproj", "{6586C4A7-C304-41B0-A564-70905E16AB0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABM-Alumno", "..\..\..\..\..\Documents\Labs\Unidad.4.Lab.2.ArchivosTXTyXMLconADO.Net\ABM-Alumno\ABM-Alumno.csproj", "{8CDE28FE-7A6A-4A46-BB0F-CB0C9F37DED7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{6586C4A7-C304-41B0-A564-70905E16AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6586C4A7-C304-41B0-A564-70905E16AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6586C4A7-C304-41B0-A564-70905E16AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CDE28FE-7A6A-4A46-BB0F-CB0C9F37DED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CDE28FE-7A6A-4A46-BB0F-CB0C9F37DED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CDE28FE-7A6A-4A46-BB0F-CB0C9F37DED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CDE28FE-7A6A-4A46-BB0F-CB0C9F37DED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
