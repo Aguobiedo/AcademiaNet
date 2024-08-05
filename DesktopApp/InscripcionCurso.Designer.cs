@@ -31,12 +31,13 @@
             panelHeader = new System.Windows.Forms.Panel();
             lblUserName = new System.Windows.Forms.Label();
             btnPersonalOptions = new System.Windows.Forms.Button();
-            dgc_cursos = new System.Windows.Forms.DataGridView();
+            dgv_cursos = new System.Windows.Forms.DataGridView();
             Código = new System.Windows.Forms.DataGridViewTextBoxColumn();
             Curso = new System.Windows.Forms.DataGridViewTextBoxColumn();
             btn_back = new System.Windows.Forms.Button();
+            btn_volver = new System.Windows.Forms.Button();
             panelHeader.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgc_cursos).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgv_cursos).BeginInit();
             SuspendLayout();
             // 
             // panelHeader
@@ -73,27 +74,31 @@
             btnPersonalOptions.Text = "Opciones";
             btnPersonalOptions.UseVisualStyleBackColor = false;
             // 
-            // dgc_cursos
+            // dgv_cursos
             // 
-            dgc_cursos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            dgc_cursos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgc_cursos.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] { Código, Curso });
-            dgc_cursos.Dock = System.Windows.Forms.DockStyle.Fill;
-            dgc_cursos.Location = new System.Drawing.Point(0, 47);
-            dgc_cursos.Name = "dgc_cursos";
-            dgc_cursos.Size = new System.Drawing.Size(800, 403);
-            dgc_cursos.TabIndex = 7;
-            dgc_cursos.CellContentClick += dgc_cursos_CellContentClick;
+            dgv_cursos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            dgv_cursos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgv_cursos.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] { Código, Curso });
+            dgv_cursos.Dock = System.Windows.Forms.DockStyle.Fill;
+            dgv_cursos.Location = new System.Drawing.Point(0, 47);
+            dgv_cursos.Name = "dgv_cursos";
+            dgv_cursos.Size = new System.Drawing.Size(800, 403);
+            dgv_cursos.TabIndex = 7;
+            dgv_cursos.CellContentClick += dgc_cursos_CellContentClick;
             // 
             // Código
             // 
+            Código.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.DisplayedCells;
             Código.HeaderText = "Código";
             Código.Name = "Código";
+            Código.Width = 71;
             // 
             // Curso
             // 
+            Curso.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.DisplayedCells;
             Curso.HeaderText = "Curso";
             Curso.Name = "Curso";
+            Curso.Width = 63;
             // 
             // btn_back
             // 
@@ -105,20 +110,31 @@
             btn_back.UseVisualStyleBackColor = true;
             btn_back.Click += btn_back_Click;
             // 
+            // btn_volver
+            // 
+            btn_volver.Location = new System.Drawing.Point(12, 405);
+            btn_volver.Name = "btn_volver";
+            btn_volver.Size = new System.Drawing.Size(75, 23);
+            btn_volver.TabIndex = 2;
+            btn_volver.Text = "Volver";
+            btn_volver.UseVisualStyleBackColor = true;
+            btn_volver.Click += button1_Click;
+            // 
             // insc_cursos
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(800, 450);
+            Controls.Add(btn_volver);
+            Controls.Add(dgv_cursos);
             Controls.Add(btn_back);
-            Controls.Add(dgc_cursos);
             Controls.Add(panelHeader);
             Name = "insc_cursos";
             Text = "lista_cursos";
             Load += insc_cursos_Load;
             panelHeader.ResumeLayout(false);
             panelHeader.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgc_cursos).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgv_cursos).EndInit();
             ResumeLayout(false);
         }
 
@@ -126,9 +142,10 @@
         private System.Windows.Forms.Panel panelHeader;
         private System.Windows.Forms.Label lblUserName;
         private System.Windows.Forms.Button btnPersonalOptions;
-        private System.Windows.Forms.DataGridView dgc_cursos;
+        private System.Windows.Forms.DataGridView dgv_cursos;
+        private System.Windows.Forms.Button btn_back;
         private System.Windows.Forms.DataGridViewTextBoxColumn Código;
         private System.Windows.Forms.DataGridViewTextBoxColumn Curso;
-        private System.Windows.Forms.Button btn_back;
+        private System.Windows.Forms.Button btn_volver;
     }
 }

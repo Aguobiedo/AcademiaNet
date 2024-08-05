@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\homealumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\homealumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:homealumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\homealumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:homealumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:inscripcioncurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\gabriel\\desktop\\net\\tpi - academica\\academianet\\desktopapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ListaCursos.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\ListaCursos.cs",
               "RelativeDocumentMoniker": "ListaCursos.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\ListaCursos.cs",
               "RelativeToolTip": "ListaCursos.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAawBoAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T15:12:42.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeAlumno.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\HomeAlumno.cs",
               "RelativeDocumentMoniker": "HomeAlumno.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ListaCursos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\ListaCursos.cs",
               "RelativeDocumentMoniker": "ListaCursos.cs",
@@ -87,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "InscripcionCurso.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\InscripcionCurso.cs",
               "RelativeDocumentMoniker": "InscripcionCurso.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\InscripcionCurso.cs",
               "RelativeToolTip": "InscripcionCurso.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAawCYAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAIAwwC0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T15:01:43.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "InscripcionCurso.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\InscripcionCurso.cs",
               "RelativeDocumentMoniker": "InscripcionCurso.cs",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeAlumno.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\NET\\TPI - Academica\\AcademiaNet\\DesktopApp\\HomeAlumno.cs",
               "RelativeDocumentMoniker": "HomeAlumno.cs",
@@ -133,8 +133,7 @@
               "RelativeToolTip": "Login.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwBAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:47:45.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T12:47:45.082Z"
             }
           ]
         }
