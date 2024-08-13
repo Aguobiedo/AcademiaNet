@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\homeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:homeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|c:\\users\\agust\u00EDn obiedo\\desktop\\facultad\\carpeta 2\\electivas\\.net 2024\\practica\\academianet\\desktopapp\\desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B516DDD1-38F8-43C1-B6B8-32B35CA95CEB}|DesktopApp.csproj|solutionrelative:desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\Facu2024\\Net\\Proyecto\\AcademiaNet\\DesktopApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,61 +9,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\HomeUsuario.cs",
-              "RelativeDocumentMoniker": "HomeUsuario.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\HomeUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "HomeUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T18:21:47.713Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:44:47.427Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAArwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T18:10:04.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DesktopApp",
-              "DocumentMoniker": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\DesktopApp.csproj",
-              "RelativeDocumentMoniker": "DesktopApp.csproj",
-              "ToolTip": "C:\\Users\\Agust\u00EDn obiedo\\Desktop\\FACULTAD\\CARPETA 2\\Electivas\\.net 2024\\practica\\AcademiaNet\\DesktopApp\\DesktopApp.csproj",
-              "RelativeToolTip": "DesktopApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-25T18:07:54.745Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
