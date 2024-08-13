@@ -43,6 +43,7 @@ C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bi
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.dll
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\bin\Debug\net5.0-windows\DesktopApp.pdb
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.Form1.resources
+C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.Form2.resources
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.HomeAlumno.resources
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.csproj.GenerateResource.cache
 C:\Users\Agustín obiedo\Desktop\Facu2024\Net\Proyecto\AcademiaNet\DesktopApp\obj\Debug\net5.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
